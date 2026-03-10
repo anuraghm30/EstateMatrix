@@ -1,10 +1,10 @@
-🏠 EstateMatrix
+# 🏠 EstateMatrix
 
 EstateMatrix is a modern real estate platform designed to simplify property discovery, management, and listing. The application allows users to explore available properties, view detailed information, and manage listings in a structured and user-friendly interface.
 
 This project demonstrates full-stack development concepts including UI design, data handling, and structured application architecture.
 
-📌 Features
+# 📌 Features
 
 🔍 Property Search & Discovery
 Users can browse and search available properties easily.
@@ -21,7 +21,7 @@ Efficient storage and retrieval of property data.
 ⚡ Responsive Design
 Works across multiple devices including desktops and mobile screens.
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 🎨 Frontend
 
@@ -42,7 +42,7 @@ Spring Boot – Framework used to build RESTful APIs and backend services
 The database stores and manages all the application data, including property listings and user information.
 MySQL – Relational database used for storing and managing structured data
 
-🧰 Development Tools
+# 🧰 Development Tools
 
 Tools used during development and version control.
 
