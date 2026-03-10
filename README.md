@@ -23,28 +23,29 @@ Works across multiple devices including desktops and mobile screens.
 
 🛠 Tech Stack
 
-Depending on what you used, keep the relevant ones:
+🎨 Frontend
 
-Frontend
+The frontend is responsible for the user interface and user experience, allowing users to interact with the application smoothly.
+HTML – Structure of the web pages
+CSS – Styling and responsive design
+React.js – Building dynamic and interactive user interfaces
 
-HTML
+⚙️ Backend
 
-CSS
+The backend handles the server-side logic, API communication, and data processing.
 
-React js
+Java – Core backend programming language
+Spring Boot – Framework used to build RESTful APIs and backend services
 
-Backend
+🗄 Database
 
- Java / SpringBoot
+The database stores and manages all the application data, including property listings and user information.
+MySQL – Relational database used for storing and managing structured data
 
-Database
+🧰 Development Tools
 
-MySQL 
+Tools used during development and version control.
 
-Tools
-
-Git
-
-GitHub
-
-VS Code / Android Studio
+Git – Version control system
+GitHub – Repository hosting and collaboration
+VS Code – Code editor used for development
